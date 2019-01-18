@@ -1,5 +1,7 @@
 # hnewslite-front
 
+View on http://hnewslite.surge.sh/
+
 ## Project setup
 ```
 npm install
